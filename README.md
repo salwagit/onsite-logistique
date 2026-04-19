@@ -83,13 +83,4 @@ onsite-logistics/
 2. `git checkout -b feature/xyz`
 3. Commit/push → PR
 
-## 📄 **Licence**
-MIT
-
-## 👤 **Auteur**
-Salwa (salwagit) - Projet étudiant logistique mobile.
-
----
-
-⭐ **Star si utile !** Questions ? Issues/PR welcome.
 
